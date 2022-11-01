@@ -2,7 +2,20 @@
     background-color: whitesmoke;    
 }
 
-.texto {
+.texto  {
     color: #b98b59;
+   padding: auto;
        
 }
+
+
+.botao  {
+   width: 150px;
+   border-radius: 10px;
+   background-color: #b98b59;
+   height: 50px;
+
+}
+
+
+
