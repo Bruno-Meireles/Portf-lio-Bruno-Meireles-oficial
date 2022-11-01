@@ -5,7 +5,7 @@ projeto feito com bootstrap
 | -------------  | --- |
 | :sparkles: Nome        | **Portfólio Bruno Meireles oficial**
 | :label: Tecnologias | java, html, css
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://bruno-meireles.github.io/Portfolio-Bruno-Meireles-oficial/
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 ![Screenshot_1](https://user-images.githubusercontent.com/88012503/198149338-6458f83b-e18a-4d2a-8dc7-640f66d68dca.png)
